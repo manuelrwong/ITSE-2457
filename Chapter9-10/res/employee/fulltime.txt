@@ -1,0 +1,10 @@
+Mia  50000	
+Ethan  50000	
+Emily  50000	 	
+Michael  50000	
+Abigail  50000	 	
+Alexander  50000	
+Madison  50000	 	
+James  50000	
+Charlotte  50000	 	
+Daniel  50000	

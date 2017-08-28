@@ -1,0 +1,10 @@
+Emma  10.24 40
+Noah  10.24 30
+Olivia  10.24 25 	
+Liam  10.24 13
+Sophia  10.24 5 	
+Mason  10.24 50
+Isabella  10.24 45 	
+Jacob  10.24 34
+Ava  10.24 15 	
+William  10.24 5
